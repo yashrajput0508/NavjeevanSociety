@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/NavjeevanSociety/static/css/main.29fbdda9.css",
-    "main.js": "/NavjeevanSociety/static/js/main.48f3bc54.js",
+    "main.js": "/NavjeevanSociety/static/js/main.78d1043f.js",
     "static/js/787.7b861842.chunk.js": "/NavjeevanSociety/static/js/787.7b861842.chunk.js",
     "static/media/duster.jpg": "/NavjeevanSociety/static/media/duster.60851aa4bf3e165959a9.jpg",
     "static/media/Img4.jpg": "/NavjeevanSociety/static/media/Img4.ab9bfcf50e9586ad2d25.jpg",
@@ -77,11 +77,11 @@
     "static/media/slick.woff": "/NavjeevanSociety/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/NavjeevanSociety/index.html",
     "main.29fbdda9.css.map": "/NavjeevanSociety/static/css/main.29fbdda9.css.map",
-    "main.48f3bc54.js.map": "/NavjeevanSociety/static/js/main.48f3bc54.js.map",
+    "main.78d1043f.js.map": "/NavjeevanSociety/static/js/main.78d1043f.js.map",
     "787.7b861842.chunk.js.map": "/NavjeevanSociety/static/js/787.7b861842.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.29fbdda9.css",
-    "static/js/main.48f3bc54.js"
+    "static/js/main.78d1043f.js"
   ]
 }
